@@ -1,3 +1,3 @@
-# Histone-analysis
+# Histone analysis
 
-1) auto.sh
+Run new_readme.sh
